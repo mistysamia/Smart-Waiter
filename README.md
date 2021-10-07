@@ -9,7 +9,7 @@
 •	The kitchen manager will keep the foods in its particular shelf and locked its door.
 </p>
 <p>
-•	He will set the table information. The information’s are like- table no, table position, customer bill etc. It is noted that there is a particular passcode for any individual table.
+•	He will set the table information. The information’s are like- table no, table position, customer bill etc. It is noted that there is a particular pin-code for any individual table.
 </p>
 <p>
 •	The trolley will start its journey towards the particular table based on the given information.
